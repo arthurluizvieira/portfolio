@@ -3,10 +3,6 @@
 <p align="center">
 Programa exclusivo promovido pela Udemy para ensino de tecnologias WEB.
 
-<p align="center">
-  <img alt="License" src="C:\Users\Usuario\Documents\devthu.png">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
