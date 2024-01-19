@@ -4,13 +4,7 @@
 Programa exclusivo promovido pela Udemy para ensino de tecnologias WEB.
 
 <p align="center">
-  <img alt="License" src="">
-</p>
-
-<br>
-
-<p align="center">
-  <img alt="Projeto DevLinks" src=".github/preview.png" width="100%">
+  <img alt="License" src="C:\Users\Usuario\Documents\devthu.png">
 </p>
 
 ## 🚀 Tecnologias
