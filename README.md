@@ -1,6 +1,6 @@
 <h1 align="center"> DEV THU </h1>
 
-<img src="C:\Users\Usuario\Documents\devthu"
+<img src="imagens/devthu.png">
 
 <p align="center">
 Programa exclusivo promovido pela Udemy para ensino de tecnologias WEB.
